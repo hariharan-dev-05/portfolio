@@ -10,9 +10,9 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Abu Said - Software Developer",
+  title: "Hariharan C | Portfolio",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "I'm a passionate web developer with expertise in front-end and back-end technologies, specializing in creating user-centered applications with clean design and smooth functionality. I love turning ideas into responsive, dynamic websites using HTML, CSS, JavaScript, and frameworks like Node.js, Express.js, and MongoDB. My recent projects include a secure blog platform and a versatile eCommerce site, both tailored for seamless user experiences. With a strong foundation in problem-solving and a dedication to continuous learning, I’m excited to bring innovation and creativity to every project I undertake.",
 };
 
 export default function RootLayout({ children }) {
